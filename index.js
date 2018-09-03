@@ -17,4 +17,8 @@ function nameToAttributes (list) {
 
     return { firstName: driverFirst, lastName: driverLast };
   });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 775089e27a8a77a6ad0d9ce93c14c2e1f222d9e8
